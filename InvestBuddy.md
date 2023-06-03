@@ -12,6 +12,6 @@
 
 **Client:** Thymeleaf, HTML, CSS, Javascript
 
-**Server:** Java, Spring Boot, Tomcat, Java
+**Server:** Java, Spring Boot, Tomcat
 
 **Deployment:** Docker, Heroku
