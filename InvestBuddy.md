@@ -14,4 +14,6 @@
 
 **Server:** Java, Spring Boot, Tomcat
 
+**Database:** MongoDB
+
 **Deployment:** Docker, Heroku
