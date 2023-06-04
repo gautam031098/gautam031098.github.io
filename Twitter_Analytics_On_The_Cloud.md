@@ -11,4 +11,6 @@
 
 **Server:** Java, Spring Boot, Amazon EC2
 
-**Deployment:** Docker, Amazon EKS, Helm, Amazon RDS, Apache Spark  
+**Database:** Amazon RDS
+
+**Deployment:** Docker, Amazon EKS, Helm, Apache Spark  
